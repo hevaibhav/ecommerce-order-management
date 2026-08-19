@@ -1,5 +1,5 @@
 const StatusUpdates = {
-    BOT_TOKEN: '8089538079:AAHjAwNrYYfm10o4pRj4qO8Y-6MMrP5Zr2o',
+    BOT_TOKEN: '8942682982:AAEP-jQlalHJ3dYcOKvBvXn8wfcl9z_Ockw',
     lastUpdateId: 0,
     pollingInterval: 5000, // 5 seconds
     
