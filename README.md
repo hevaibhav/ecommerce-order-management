@@ -4,7 +4,7 @@ A responsive e-commerce website built from scratch using **HTML, CSS, and JavaSc
 
 ## 🌐 Live Demo
 
-[View Live Website](https://confusehubhai.github.io/ecommerce-order-management/)
+[View Live Website](https://hevaibhav.github.io/ecommerce-order-management/)
 
 ## ✨ Features
 
