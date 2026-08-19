@@ -7,7 +7,7 @@ const ORDER_STATUSES = {
 };
 
 const TelegramBot = {
-    BOT_TOKEN: '8089538079:AAHjAwNrYYfm10o4pRj4qO8Y-6MMrP5Zr2o',
+    BOT_TOKEN: '8942682982:AAEP-jQlalHJ3dYcOKvBvXn8wfcl9z_Ockw',
     CHAT_IDS: {
         ADMIN: '1299401914', // Main admin with full permissions
         VIEWERS: [           // Array of viewer chat IDs - view only
