@@ -20,6 +20,7 @@ A responsive e-commerce website built from scratch using **HTML, CSS, and JavaSc
 
 ## 🛠️ Tech Stack
 
+
 - HTML5
 - CSS3
 - JavaScript
